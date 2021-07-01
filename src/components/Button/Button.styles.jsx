@@ -19,7 +19,7 @@ export const Btn = styled.button`
   transition: all 250ms ease-in-out;
 
   &:hover,
-  &:focus {
+  &:focus-visible {
     transform: scale(1.2);
   }
 `;
